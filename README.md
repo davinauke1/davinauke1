@@ -9,4 +9,5 @@ A data analysis project using EGAD and MECE to assess water safety in underserve
 🔗 [View Project on GitHub](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fdavinauke1%2Fclean-water-access-analysis&sa=D&sntz=1&usg=AOvVaw0gRa7m59BxWc40FXBGRX-h)
 ## 📫 Contact Me
 - Email: davinauke2@gmail.com  
-- LinkedIn: 
+- LinkedIn:
+- Portfolio: [View My Portfolio](https://sites.google.com/view/davina-uke-portfolio/home?authuser=0)
